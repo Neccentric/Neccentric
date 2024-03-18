@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Neccentric/Neccentric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/Neccentric/">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neccentric&theme=jolly&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
+</a>
